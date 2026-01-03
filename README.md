@@ -1,6 +1,7 @@
+- Bootstrap
 - PHP
-- Laravel // web framework
-- Laravel Blade + livewire // view
-- Laravel Breeze // Authentication
-- Swiper.js // Slide
-- Mysql // dbms
+- Laravel 
+- Laravel Blade + livewire 
+- Laravel Breeze
+- Swiper.js 
+- Mysql
