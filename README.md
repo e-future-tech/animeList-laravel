@@ -5,3 +5,4 @@
 - Laravel Breeze
 - Swiper.js 
 - Mysql
+- API : https://jikan.moe/
