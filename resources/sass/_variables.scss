@@ -1,0 +1,49 @@
+// Body
+$body-bg: ghostwhite;
+
+// Typography
+$font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+$font-size-base: 0.9rem;
+$line-height-base: 1.6;
+
+
+// a link
+.custom-a-link {
+    text-decoration: none;
+    color: darkred;
+}
+
+.custom-a-link:hover {
+    color: black;
+}
+
+// nav-link
+.custom-nav-link:hover {
+    border-bottom: 1px solid darkred;
+}
+
+// nav link admin
+.custom-nav-admin:hover {
+    font-weight: bold;
+}
+
+// swiper
+
+.anime {
+    --swiper-pagination-color: black;
+    /* Warna saat aktif */
+    --swiper-pagination-bullet-inactive-opacity: 0.1;
+}
+
+// cover img
+.custom-btn-cover img {
+    height: 14rem;
+    object-fit: contain;
+
+    transition: 0.5s;
+}
+
+.custom-btn-cover:hover img {
+    transform: scale(1.04);
+    cursor: pointer;
+}
